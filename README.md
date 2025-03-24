@@ -42,6 +42,10 @@ BloggerAI - это Telegram-бот, предназначенный для мон
     ```bash
     export TELEGRAM_BOT_TOKEN='your-telegram-bot-token'
     export OPENAI_API_KEY='your-openai-api-key'
+    expot PHONE_NUMBER=+7111222333
+    export API_HASH=HASH
+    export API_ID=ID
+    Getting api cred for telegram: https://my.telegram.org/auth?to=apps
     ```
 
 ## Использование
